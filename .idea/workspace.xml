@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed76da60-89ae-4e33-b661-b9d5cf9b46bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a7bbTqJIBeEfsoQjKjvYDQyBUK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\khaled\projets_perso\GNARF\images" />
+      <recent name="C:\Users\khaled\projets_perso\GNARF\assets\pdf" />
+      <recent name="C:\Users\khaled\projets_perso\GNARF\assets\js" />
+      <recent name="C:\Users\khaled\projets_perso\GNARF" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed76da60-89ae-4e33-b661-b9d5cf9b46bf" name="Default Changelist" comment="" />
+      <created>1586089650537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586089650537</updated>
+      <workItem from="1586089652880" duration="8095000" />
+      <workItem from="1586103803415" duration="20905000" />
+      <workItem from="1586290735716" duration="11049000" />
+      <workItem from="1586527047716" duration="6782000" />
+      <workItem from="1586636304949" duration="106000" />
+      <workItem from="1586956675976" duration="1146000" />
+      <workItem from="1586962149354" duration="3147000" />
+      <workItem from="1587223381363" duration="939000" />
+      <workItem from="1587740813973" duration="6273000" />
+      <workItem from="1587767711086" duration="10207000" />
+      <workItem from="1587778513736" duration="10475000" />
+      <workItem from="1587823958051" duration="19719000" />
+      <workItem from="1587897771797" duration="8337000" />
+      <workItem from="1587990860551" duration="326000" />
+      <workItem from="1588241187288" duration="1239000" />
+      <workItem from="1588278224240" duration="108000" />
+      <workItem from="1589075705291" duration="3336000" />
+      <workItem from="1589995546875" duration="113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="72" key="#Inspections" timestamp="1587772016350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1587772016350" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1586636343621">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586636343621" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1586089713430">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586089713430" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1587822909128">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1587822909128" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586089890689">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586089890689" />
+  </component>
+</project>

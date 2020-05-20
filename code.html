@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>code Protected </title>
+</head>
+<body>
+<script type="text/javascript">
+    var s ="";
+
+    while (s!= "gnarf" && s!="inge")
+    {
+        s=prompt("Voyons voir si t'as le droit de voir tout ça !");
+        if (s=="gnarf")
+        {
+            window.location.href="picture.html";
+        }
+        else if(s=="inge")
+        {
+            window.location.href="secret.html";
+        }
+        else
+        {
+            alert("Deso tu n'est pas autorisé");
+            window.location.href="index.html";
+            break;
+        }
+    }
+</script>
+</head>
+</body>
+</html>

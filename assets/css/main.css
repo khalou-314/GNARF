@@ -3114,7 +3114,7 @@ button:disabled,
 }
 #footer2 {
 	padding: 6em 0;
-	background: #eff5ef;
+	background: #f5f5dc;
 	color: #808080;
 	text-align: center;
 }
@@ -3299,7 +3299,7 @@ body {
 
 canvas {
 	display: block;
-	osition:absolute;
+	position:absolute;
 
 	height: auto;
 	width: auto;

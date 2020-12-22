@@ -49,4 +49,3 @@ function draw()
 
 setInterval(draw, 33);
 
-te();

@@ -42,7 +42,5 @@ document.addEventListener('keydown', function(e) {
 
 function activateCheats() {
     window.open("https://www.facebook.com/groups/354882467934312/");
-    var audio = new Audio('coconut.mp3');
-    audio.play();
-    
+
 }

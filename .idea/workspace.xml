@@ -3,29 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ed76da60-89ae-4e33-b661-b9d5cf9b46bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coloc'inge.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/konami.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/konami.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/konami_1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elements.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/131.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/132.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG01.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG02.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/JPEG_20200428_143543.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cc1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/chambrey.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/chambrey_2019.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/chambrey_2020.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/coloc'inge.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/coloc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/lille-union.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/rip.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/secret.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coconut.mp3" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +42,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\khaled\projets_perso\git\GNARF\assets\js" />
       <recent name="C:\Users\khaled\projets_perso\GNARF\images" />
       <recent name="C:\Users\khaled\projets_perso\GNARF\assets\pdf" />
       <recent name="C:\Users\khaled\projets_perso\GNARF\assets\js" />
@@ -109,7 +89,7 @@
       <workItem from="1588278224240" duration="108000" />
       <workItem from="1589075705291" duration="3336000" />
       <workItem from="1589995546875" duration="113000" />
-      <workItem from="1608586502272" duration="20628000" />
+      <workItem from="1608586502272" duration="20949000" />
     </task>
     <servers />
   </component>

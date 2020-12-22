@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ed76da60-89ae-4e33-b661-b9d5cf9b46bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/konami.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/konami.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coconut.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/code.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +41,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\khaled\projets_perso\git\GNARF\assets\pdf" />
       <recent name="C:\Users\khaled\projets_perso\git\GNARF\assets\js" />
       <recent name="C:\Users\khaled\projets_perso\GNARF\images" />
       <recent name="C:\Users\khaled\projets_perso\GNARF\assets\pdf" />
       <recent name="C:\Users\khaled\projets_perso\GNARF\assets\js" />
-      <recent name="C:\Users\khaled\projets_perso\GNARF" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -89,7 +88,7 @@
       <workItem from="1588278224240" duration="108000" />
       <workItem from="1589075705291" duration="3336000" />
       <workItem from="1589995546875" duration="113000" />
-      <workItem from="1608586502272" duration="20949000" />
+      <workItem from="1608586502272" duration="21461000" />
     </task>
     <servers />
   </component>

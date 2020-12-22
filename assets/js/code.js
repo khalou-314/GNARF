@@ -1,11 +1,11 @@
 
 var s ="";
 
-while (s!= "gnarf")
+while (s!= "bureaugnarf2020")
 {
     s=prompt("Voyons voir si t'as le droit de voir tout ça !");
 
-    if (s=="gnarf")
+    if (s=="bureaugnarf2020")
     {
         window.location.href="picture.html";
     }

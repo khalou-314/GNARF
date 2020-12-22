@@ -2223,7 +2223,7 @@ input[type="radio"] + label:before {
 }
 
 .image.left img, .image.right img {
-	width: 100%;
+	width: 80%;
 }
 
 .image.round img {
@@ -3114,7 +3114,7 @@ button:disabled,
 }
 #footer2 {
 	padding: 6em 0;
-	background: #f5f5dc;
+	background: #eff5ef;
 	color: #808080;
 	text-align: center;
 }

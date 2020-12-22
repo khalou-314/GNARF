@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed76da60-89ae-4e33-b661-b9d5cf9b46bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/matrix.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/matrix.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bureau.html" beforeDir="false" afterPath="$PROJECT_DIR$/bureau.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bureau/Nils.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bureau/constance.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bureau/guillaume.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bureau/loïse.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code.html" beforeDir="false" afterPath="$PROJECT_DIR$/code.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnarf.html" beforeDir="false" afterPath="$PROJECT_DIR$/gnarf.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/picture.html" beforeDir="false" afterPath="$PROJECT_DIR$/picture.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/secret.html" beforeDir="false" afterPath="$PROJECT_DIR$/secret.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/virus.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -34,12 +27,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1a7bbTqJIBeEfsoQjKjvYDQyBUK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -95,7 +92,7 @@
       <workItem from="1588278224240" duration="108000" />
       <workItem from="1589075705291" duration="3336000" />
       <workItem from="1589995546875" duration="113000" />
-      <workItem from="1608586502272" duration="13024000" />
+      <workItem from="1608586502272" duration="19423000" />
     </task>
     <servers />
   </component>

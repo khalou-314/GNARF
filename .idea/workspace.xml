@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ed76da60-89ae-4e33-b661-b9d5cf9b46bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bureau.html" beforeDir="false" afterPath="$PROJECT_DIR$/bureau.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gnarf.html" beforeDir="false" afterPath="$PROJECT_DIR$/gnarf.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/historique.html" beforeDir="false" afterPath="$PROJECT_DIR$/historique.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/picture.html" beforeDir="false" afterPath="$PROJECT_DIR$/picture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture.html" beforeDir="false" afterPath="$PROJECT_DIR$/picture/picture.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +42,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\khaled\projets_perso\git\GNARF\picture" />
+      <recent name="C:\Users\khaled\projets_perso\git\GNARF\path" />
+      <recent name="C:\Users\khaled\projets_perso\git\GNARF" />
       <recent name="C:\Users\khaled\projets_perso\git\GNARF\assets\pdf" />
       <recent name="C:\Users\khaled\projets_perso\git\GNARF\assets\js" />
-      <recent name="C:\Users\khaled\projets_perso\GNARF\images" />
-      <recent name="C:\Users\khaled\projets_perso\GNARF\assets\pdf" />
-      <recent name="C:\Users\khaled\projets_perso\GNARF\assets\js" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -92,7 +89,9 @@
       <workItem from="1588278224240" duration="108000" />
       <workItem from="1589075705291" duration="3336000" />
       <workItem from="1589995546875" duration="113000" />
-      <workItem from="1608586502272" duration="26288000" />
+      <workItem from="1608586502272" duration="27844000" />
+      <workItem from="1608801188717" duration="2469000" />
+      <workItem from="1608804943113" duration="1520000" />
     </task>
     <servers />
   </component>
@@ -100,6 +99,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="72" key="#Code_Cleanup_Inspections" timestamp="1608805287360">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Code_Cleanup_Inspections/0.0.1536.824@0.0.1536.824" timestamp="1608805287360" />
+    <state x="526" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608804828924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1608804828924" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1608587373253">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

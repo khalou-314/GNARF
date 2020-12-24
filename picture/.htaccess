@@ -1,0 +1,5 @@
+#Protect photos
+        AuthName "Authentication Required"
+        AuthType Basic
+        AuthUserFile /path/to/htpasswd/file/.htpasswd
+        Require valid-user
